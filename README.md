@@ -35,11 +35,12 @@ Here's how to use MESEN to generate the CDL file needed for this tool:
 4. Play the game, covering all relevant scenarios
 5.  Debugger > Tools > Code/Data Logger > Save as CDL file...
 
+## Thanks
+Thanks to everyone on [this NESDev forum post](https://forums.nesdev.org/viewtopic.php?t=24120) who pointed me in the right direction!
 
 ## Authors
 
 - **Matthew Justice** [matthewjustice](https://github.com/matthewjustice)
-
 
 ## License
 
