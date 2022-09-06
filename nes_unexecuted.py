@@ -1,6 +1,7 @@
 """
 nes_unexecuted for Python 3
-Finds code that isn't executed in a NES game
+Finds code that isn't executed in a NES game,
+or more specifically any ROM byte that isn't accessed.
 """
 import sys
 
